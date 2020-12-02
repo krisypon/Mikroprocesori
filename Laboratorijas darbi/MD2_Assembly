@@ -1,6 +1,6 @@
 ;Sareiziniet visus 41 16-bitu skaitļu masīva X elementus ar konstanti K = 121
 
-		#include "msp430g2553.h"        ; #define controlled include file;task2_15V
+		#include "msp430g2553.h"        ; #define controlled include file
 		org	0xD000
 ;===============================================================================        
 main   		nop                             ; main program
