@@ -1,9 +1,9 @@
 #include <msp430.h> 
 
-#define red_period 15000 //3750
-#define red_on 7500 //1875
-#define green_period 175000 //43750
-#define green_on 87500 //21875
+#define red_period 3750
+#define red_on 1875
+#define green_period 43750
+#define green_on 21875
 
 void main(void)
 {
